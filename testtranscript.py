@@ -1,15 +1,18 @@
-
 import whisper
 import os
 
-filename = "input_audio.mp3"
+filename = "input.mp3"
 model_name = "medium"  # Define your model name here
 
 # Load the model
 model = whisper.load_model(model_name)
 
 # Transcribe the audio file
-result = model.transcribe(filename, language="pt", word_timestamps=True)
+result = model.transcribe(filename, language="pt", word_timestamps=False)
+
+# Print the transcribed text to the terminal
+print("Transcribed Text:")
+print(result["text"])
 
 # Save the result to a file
 output_dir = f"output-{model_name}"
