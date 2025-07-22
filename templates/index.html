@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whisper Audio Transcriber - Free Online</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row min-vh-100">
+            <!-- Header -->
+            <div class="col-12 bg-primary text-white py-3">
+                <div class="container">
+                    <h1 class="mb-0"><i class="fas fa-microphone me-2"></i>Whisper Audio Transcriber</h1>
+                    <p class="mb-0 opacity-75">Free online audio transcription powered by OpenAI Whisper</p>
+                </div>
+            </div>
+            
+            <!-- Main Content -->
+            <div class="col-12">
+                <div class="container py-5">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <!-- Upload Section -->
+                            <div class="card shadow-lg mb-4">
+                                <div class="card-header bg-light">
+                                    <h3 class="card-title mb-0"><i class="fas fa-upload me-2"></i>Upload Audio File</h3>
+                                </div>
+                                <div class="card-body">
+                                    <form id="uploadForm" enctype="multipart/form-data">
+                                        <div class="mb-3">
+                                            <label for="audioFile" class="form-label">Select Audio File</label>
+                                            <input type="file" class="form-control" id="audioFile" name="file" 
+                                                   accept="audio/*,video/*,.mp3,.wav,.m4a,.mp4,.avi,.mov,.mkv" required>
+                                            <div class="form-text">Supported formats: MP3, WAV, M4A, MP4, AVI, MOV, MKV (max 100MB)</div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                            <div class="col-md-6 mb-3">
+                                                <label for="model" class="form-label">Model Size</label>
+                                                <select class="form-select" id="model" name="model">
+                                                    {% for model in models %}
+                                                    <option value="{{ model }}" {% if model == 'base' %}selected{% endif %}>
+                                                        {{ model.title() }}
+                                                        {% if model == 'tiny' %} (Fastest, Lower Quality)
+                                                        {% elif model == 'base' %} (Balanced)
+                                                        {% elif model == 'small' %} (Good Quality)
+                                                        {% elif model == 'medium' %} (Better Quality)
+                                                        {% elif model == 'large' %} (Best Quality, Slower)
+                                                        {% endif %}
+                                                    </option>
+                                                    {% endfor %}
+                                                </select>
+                                            </div>
+                                            
+                                            <div class="col-md-6 mb-3">
+                                                <label for="device" class="form-label">Processing Device</label>
+                                                <select class="form-select" id="device" name="device">
+                                                    <option value="cpu">CPU (Slower, Compatible)</option>
+                                                    <option value="cuda" {% if device == 'cuda' %}selected{% endif %}>
+                                                        GPU (Faster) {% if device != 'cuda' %}- Not Available{% endif %}
+                                                    </option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        
+                                        <button type="submit" class="btn btn-primary btn-lg w-100" id="uploadBtn">
+                                            <i class="fas fa-play me-2"></i>Start Transcription
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                            
+                            <!-- Progress Section -->
+                            <div class="card shadow-lg mb-4" id="progressCard" style="display: none;">
+                                <div class="card-header bg-info text-white">
+                                    <h3 class="card-title mb-0"><i class="fas fa-cog fa-spin me-2"></i>Processing</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="progress mb-3">
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" 
+                                             role="progressbar" style="width: 0%"></div>
+                                    </div>
+                                    <p id="progressText" class="mb-0">Preparing transcription...</p>
+                                    <small class="text-muted" id="fileName"></small>
+                                </div>
+                            </div>
+                            
+                            <!-- Results Section -->
+                            <div class="card shadow-lg" id="resultsCard" style="display: none;">
+                                <div class="card-header bg-success text-white">
+                                    <h3 class="card-title mb-0"><i class="fas fa-check-circle me-2"></i>Transcription Complete</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="mb-3">
+                                        <label for="transcriptionText" class="form-label">Transcribed Text:</label>
+                                        <textarea class="form-control" id="transcriptionText" rows="10" readonly></textarea>
+                                    </div>
+                                    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                        <button class="btn btn-outline-primary" id="copyBtn">
+                                            <i class="fas fa-copy me-2"></i>Copy Text
+                                        </button>
+                                        <button class="btn btn-primary" id="downloadBtn">
+                                            <i class="fas fa-download me-2"></i>Download TXT
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Error Section -->
+                            <div class="alert alert-danger" id="errorAlert" style="display: none;">
+                                <h4 class="alert-heading"><i class="fas fa-exclamation-triangle me-2"></i>Error</h4>
+                                <p id="errorText" class="mb-0"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Footer -->
+            <div class="col-12 bg-dark text-white py-3 mt-auto">
+                <div class="container text-center">
+                    <p class="mb-0">
+                        <i class="fas fa-heart text-danger me-1"></i>
+                        Free Audio Transcription Service | Powered by OpenAI Whisper
+                    </p>
+                    <small class="text-muted">
+                        Device: {{ device.upper() }} | 
+                        {% if device == 'cuda' %}
+                        <i class="fas fa-rocket text-success"></i> GPU Acceleration Enabled
+                        {% else %}
+                        <i class="fas fa-microchip text-warning"></i> CPU Processing
+                        {% endif %}
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,1952 @@
+1
+00:00:00,000 --> 00:00:03,280
+Jorge Carrascal é jogador do Flamengo
+
+2
+00:00:03,280 --> 00:00:07,580
+estou falando de um meio campista de 27 anos completo já nesse ano
+
+3
+00:00:07,580 --> 00:00:13,080
+que chega vindo do futebol ruso para reforçar o time do técnico Felipe Luís
+
+4
+00:00:13,080 --> 00:00:18,020
+ele traz para o time uma característica que todo mundo já deve ter sido informado
+
+5
+00:00:18,020 --> 00:00:20,020
+que é a característica do drible
+
+6
+00:00:20,020 --> 00:00:24,560
+mas ele vai além disso tanto em fortalezas quanto em eventuais fraquezas
+
+7
+00:00:24,560 --> 00:00:27,060
+e tudo isso eu vou te explicar nesse vídeo
+
+8
+00:00:27,060 --> 00:00:30,320
+falando sobre tática, sem tatequês
+
+9
+00:00:36,820 --> 00:00:40,580
+eu poderia começar esse vídeo falando que é de um jogador moderno
+
+10
+00:00:40,580 --> 00:00:45,660
+mas está ficando meio desatualizado até porque o que é moderno hoje em dia
+
+11
+00:00:45,660 --> 00:00:48,020
+em tempo de inteligência artificial
+
+12
+00:00:48,020 --> 00:00:50,380
+sinceramente não ser responder essa pergunta
+
+13
+00:00:50,380 --> 00:00:55,700
+o que eu posso fazer é te indicar melhor inteligência artificial do mundo
+
+14
+00:00:55,700 --> 00:00:58,700
+e se eu te falar que esses caras são brasileiros
+
+15
+00:00:58,700 --> 00:01:02,700
+eu estou falando da testa, a testa foi fundada para o empresário brasileiro
+
+16
+00:01:02,700 --> 00:01:07,700
+rica barros, a roba rica barros segue ele aí para você conhecer esse cara inspirador
+
+17
+00:01:07,700 --> 00:01:10,260
+e é um conhecido a gente de IA
+
+18
+00:01:10,260 --> 00:01:15,580
+o que isso quer dizer gente, eles têm ali o código de mais de 200 IA
+
+19
+00:01:15,580 --> 00:01:17,780
+dentro de uma só plataforma
+
+20
+00:01:17,780 --> 00:01:19,980
+e essa plataforma tem o preço digamos assim
+
+21
+00:01:20,060 --> 00:01:25,980
+metade do preço do chatgpt sozinho, sendo que o chatgpt está dentro da testa
+
+22
+00:01:25,980 --> 00:01:28,700
+ou seja, não tem nem muito o que pensar
+
+23
+00:01:28,700 --> 00:01:31,260
+você tem a melhoriado mercado
+
+24
+00:01:31,260 --> 00:01:36,340
+e essa melhoriado mercado consolida os API de outras 200 IAs
+
+25
+00:01:36,340 --> 00:01:40,260
+então você pode pedir por exemplo o chatgpt executar uma tarefa
+
+26
+00:01:40,260 --> 00:01:43,540
+depois você pode pedir para o Google Geminar e dar uma revisada
+
+27
+00:01:43,540 --> 00:01:46,100
+pode pedir para o Dipsy que emitir um relatório
+
+28
+00:01:46,100 --> 00:01:47,860
+ou tentar um plano de ação
+
+29
+00:01:47,900 --> 00:01:51,580
+você consegue fazer muita coisa, vai além do infinito
+
+30
+00:01:51,580 --> 00:01:55,100
+isso que vai te ajudar não executar o teu trabalho
+
+31
+00:01:55,100 --> 00:01:59,100
+mas sim a executar as tarefas repetitivas que não agregam o valor
+
+32
+00:01:59,100 --> 00:02:00,420
+é o que você entrega
+
+33
+00:02:00,420 --> 00:02:03,420
+eu, por exemplo, faço roteiros dos meus vídeos utilizando
+
+34
+00:02:03,420 --> 00:02:07,660
+IA, coloco títulos também muito pautados com apoio da IA
+
+35
+00:02:07,660 --> 00:02:11,220
+coisas que eu demorava cerca de 20% mais
+
+36
+00:02:11,220 --> 00:02:15,140
+eu deixo de fazer, ou seja, meus vídeos estou demorando 20%
+
+37
+00:02:15,140 --> 00:02:18,860
+a menos isso é recuperação de tempo de vida
+
+38
+00:02:18,860 --> 00:02:21,100
+e você consegue, ah, não mexe muito bem em IA
+
+39
+00:02:21,100 --> 00:02:23,100
+pois é, os cara resolve isso para você
+
+40
+00:02:23,100 --> 00:02:26,780
+eles criaram um acesso gratuito para a universidade da IA
+
+41
+00:02:26,780 --> 00:02:30,100
+para todo mundo que comprar ali se tornar cliente deles
+
+42
+00:02:30,100 --> 00:02:33,100
+ele já tem mais de 2 milhões de clientes no mundo
+
+43
+00:02:33,100 --> 00:02:36,220
+e todo mundo que se tornar cliente deles agora
+
+44
+00:02:36,220 --> 00:02:38,780
+vai ter acesso gratuito anual
+
+45
+00:02:38,780 --> 00:02:42,700
+deste curso que custa quase 4 mil reais para você
+
+46
+00:02:42,700 --> 00:02:45,940
+nos mínimos detalhes aprender a mexer IA em geral
+
+47
+00:02:45,940 --> 00:02:49,260
+e especialmente aprender a mexer na testa
+
+48
+00:02:49,260 --> 00:02:51,260
+clica no link que está na descrição do vídeo
+
+49
+00:02:51,260 --> 00:02:54,060
+ou mira no que o Arcode que aparece enquanto eu falo
+
+50
+00:02:54,060 --> 00:02:57,100
+e aproveite essa mega promoção
+
+51
+00:02:57,100 --> 00:02:59,860
+saindo só 44 reais por mês
+
+52
+00:02:59,860 --> 00:03:03,060
+menos da metade do valor do chat repete você assina
+
+53
+00:03:03,060 --> 00:03:04,580
+a testa, bom?
+
+54
+00:03:04,580 --> 00:03:08,180
+E chegou a hora da gente ir entender um pouco mais esse jogador
+
+55
+00:03:08,180 --> 00:03:11,140
+vamos primeiro mostrar o posicionamento dele
+
+56
+00:03:11,140 --> 00:03:12,700
+e depois a gente vai pro campo
+
+57
+00:03:12,700 --> 00:03:17,700
+trata-se de um criador, um construtor, um criador
+
+58
+00:03:17,700 --> 00:03:20,740
+que executa muito bem dribles
+
+59
+00:03:20,740 --> 00:03:23,460
+e joga nas 4 posições do ataque
+
+60
+00:03:23,460 --> 00:03:26,940
+claro que a qualidade em que ele desempenha cada posição
+
+61
+00:03:26,940 --> 00:03:30,140
+vai variar, vai aumentar e diminuir eventualmente
+
+62
+00:03:30,140 --> 00:03:34,500
+ele é um 10 de formação que foi aos poucos jogando pelo lado
+
+63
+00:03:34,500 --> 00:03:35,860
+pelos 2 lados
+
+64
+00:03:35,860 --> 00:03:39,100
+e nessa última temporada tem atuado como o atacante
+
+65
+00:03:39,100 --> 00:03:41,460
+como o primeiro atacante ali é um falso 9
+
+66
+00:03:41,460 --> 00:03:43,500
+e eventualmente em dupla de ataque
+
+67
+00:03:43,500 --> 00:03:47,900
+muito parecido com a função que executa o arrascaeta
+
+68
+00:03:47,900 --> 00:03:52,340
+porém entregando a sua leitura particular dessa função
+
+69
+00:03:52,340 --> 00:03:54,140
+e ele tem uma boa estatura
+
+70
+00:03:54,140 --> 00:03:56,100
+ele tem cerca de 1,80m
+
+71
+00:03:56,100 --> 00:03:59,500
+então 1,79m para algumas fontes para outras 1,80m
+
+72
+00:03:59,500 --> 00:04:02,740
+mas bora pro campo sem entender 100% como esse cara joga
+
+73
+00:04:02,740 --> 00:04:05,620
+como eu falei para vocês, ele é um jogador de corredor central
+
+74
+00:04:05,620 --> 00:04:08,700
+e é muito raro a gente vê jogador de corredor central
+
+75
+00:04:08,700 --> 00:04:12,900
+capaz de conduzir a bola num espaço tão conjecionado
+
+76
+00:04:12,900 --> 00:04:15,380
+nota como ele recebe essa bola, ele é esse camisa 8
+
+77
+00:04:15,380 --> 00:04:19,380
+aí recebe essa bola no meio de 4 marcadores adversários
+
+78
+00:04:19,380 --> 00:04:21,300
+e ele vai colocando no espaço
+
+79
+00:04:21,300 --> 00:04:23,700
+conduzindo ela muito próximo ao pé
+
+80
+00:04:23,700 --> 00:04:28,020
+e gerando ali um certo venda aval na defesa adversária
+
+81
+00:04:28,020 --> 00:04:31,900
+esse estilo de jogo, ele lembra muito do Neymar
+
+82
+00:04:31,900 --> 00:04:34,940
+e não atoa quando ele surgiu, ele surgiu como tal
+
+83
+00:04:34,940 --> 00:04:36,900
+Neymar colombiano
+
+84
+00:04:36,940 --> 00:04:39,500
+ele é um cara que ali é esse estilo
+
+85
+00:04:39,500 --> 00:04:43,620
+há uma capacidade de flutuar pelo campo
+
+86
+00:04:43,620 --> 00:04:47,020
+e ele eventualmente consegue gerar com textos melhores
+
+87
+00:04:47,020 --> 00:04:49,780
+para os seus parceiros a partir disso
+
+88
+00:04:49,780 --> 00:04:53,300
+então ele é um jogador que não é um passadornato
+
+89
+00:04:53,300 --> 00:04:55,380
+e sim um conduzornato
+
+90
+00:04:55,380 --> 00:04:57,700
+ele cria a partir da condução
+
+91
+00:04:57,700 --> 00:04:59,940
+e não cria a partir do passe
+
+92
+00:04:59,940 --> 00:05:02,540
+essa não é a linha dele de jogo
+
+93
+00:05:02,540 --> 00:05:06,180
+então é um jogador que sabe receber os contatos
+
+94
+00:05:06,180 --> 00:05:09,300
+então ele não é tão frágil aos contatos
+
+95
+00:05:09,300 --> 00:05:12,180
+então ele sustenta a pressão de jogar de costas
+
+96
+00:05:12,180 --> 00:05:13,540
+muitas e muitas vezes
+
+97
+00:05:13,540 --> 00:05:15,500
+como um típico jogador sul americano
+
+98
+00:05:15,500 --> 00:05:16,420
+digamos assim
+
+99
+00:05:16,420 --> 00:05:20,860
+e abre caminhos a partir dessa capacidade de sustentar a pressão
+
+100
+00:05:20,860 --> 00:05:24,500
+e da capacidade de conduzir em espaço congestionado
+
+101
+00:05:24,500 --> 00:05:27,100
+e eventualmente pode jogar por um dos lados
+
+102
+00:05:27,100 --> 00:05:31,140
+e eventualmente não eu gosto bastante dele jogando pelo lado esquerdo
+
+103
+00:05:31,140 --> 00:05:33,620
+e conduz ali para abrir espaços
+
+104
+00:05:33,620 --> 00:05:35,740
+ele não é, digamos assim
+
+105
+00:05:35,740 --> 00:05:38,820
+um cara que vai dar o passe tão vertical
+
+106
+00:05:38,820 --> 00:05:42,380
+até porque quando ele sai para entrar no próprio contexto de conduzir
+
+107
+00:05:42,380 --> 00:05:46,340
+ele acaba se afastando um pouco da área adversária
+
+108
+00:05:46,340 --> 00:05:48,940
+ele vai gerar um lance de dribble
+
+109
+00:05:48,940 --> 00:05:52,180
+e vai gerar um contexto de muito tempo e espaço para o lateral
+
+110
+00:05:52,180 --> 00:05:53,820
+que ultrapassa no setor dele
+
+111
+00:05:53,820 --> 00:05:56,500
+aquele recebe de costas muito pressionado
+
+112
+00:05:56,500 --> 00:05:58,060
+e vai sair da pressão
+
+113
+00:05:58,060 --> 00:06:00,460
+vai levando para a zona menos congestionada
+
+114
+00:06:00,460 --> 00:06:02,380
+e vai passar no meio de dois
+
+115
+00:06:02,380 --> 00:06:03,860
+vai invadir a área
+
+116
+00:06:03,860 --> 00:06:05,660
+e infelizmente ele acabou
+
+117
+00:06:05,660 --> 00:06:07,780
+tropeando na hora de finalizar a jogada
+
+118
+00:06:07,780 --> 00:06:09,740
+eu não fico analisando highlight de jogador
+
+119
+00:06:09,740 --> 00:06:13,380
+a gente eu vejo seis jogos inteiros do jogador
+
+120
+00:06:13,380 --> 00:06:15,980
+para poder trazer ele para vocês aqui
+
+121
+00:06:15,980 --> 00:06:17,460
+aquele está conduzindo por dentro
+
+122
+00:06:17,460 --> 00:06:19,300
+como a meia vai pedalar
+
+123
+00:06:19,300 --> 00:06:21,420
+e acaba perdendo a bola
+
+124
+00:06:21,420 --> 00:06:23,460
+isso é de certa forma
+
+125
+00:06:23,460 --> 00:06:26,380
+comum de um jogador que tenta muitos de dribble
+
+126
+00:06:26,380 --> 00:06:28,980
+o aproveitamento dele é altíssimo
+
+127
+00:06:29,180 --> 00:06:30,380
+para você ter uma ideia
+
+128
+00:06:30,380 --> 00:06:32,420
+a horrascaeta faz por exemplo
+
+129
+00:06:32,420 --> 00:06:33,180
+10
+
+130
+00:06:33,180 --> 00:06:36,260
+por exemplo não, exatamente 10,13
+
+131
+00:06:36,260 --> 00:06:37,860
+duelos ofensivos por jogo
+
+132
+00:06:37,860 --> 00:06:39,020
+e tem um bom aproveitamento
+
+133
+00:06:39,020 --> 00:06:40,500
+embora não seja um driblador
+
+134
+00:06:40,500 --> 00:06:42,740
+ele entra nos duelos também não foge dos duelos
+
+135
+00:06:42,740 --> 00:06:44,780
+tem aproveitamento de 51%
+
+136
+00:06:44,780 --> 00:06:46,940
+o carrascal tem aproveitamento maior
+
+137
+00:06:46,940 --> 00:06:48,420
+53%
+
+138
+00:06:48,420 --> 00:06:51,340
+e ele tem 50% mais duelos
+
+139
+00:06:51,340 --> 00:06:52,740
+então ele é um duelador
+
+140
+00:06:52,740 --> 00:06:55,340
+e dentro desses duelos estão os dribbles
+
+141
+00:06:55,340 --> 00:06:56,580
+então por exemplo
+
+142
+00:06:56,620 --> 00:06:59,060
+nos dribbles enquanto o Everton Ribeiro
+
+143
+00:06:59,060 --> 00:07:01,860
+por exemplo que era um cara driblador
+
+144
+00:07:01,860 --> 00:07:05,660
+ali mago, tinha 62% de aproveitamento dos dribbles
+
+145
+00:07:05,660 --> 00:07:08,020
+e fazia três dribbles e meio por jogo
+
+146
+00:07:08,020 --> 00:07:10,100
+o carrascal faz um dribble diferente
+
+147
+00:07:10,100 --> 00:07:11,140
+de mais força
+
+148
+00:07:11,140 --> 00:07:12,740
+é de mais aceleração
+
+149
+00:07:12,740 --> 00:07:15,100
+e faz 68% de aproveitamento
+
+150
+00:07:15,100 --> 00:07:17,060
+bem mais alta aproveitamento altíssimo
+
+151
+00:07:17,060 --> 00:07:18,700
+e 8 dribbles por jogo
+
+152
+00:07:18,700 --> 00:07:21,140
+ou seja, mais do que o dobro dos dribbles
+
+153
+00:07:21,140 --> 00:07:23,300
+tá comparado por exemplo com Michael
+
+154
+00:07:23,300 --> 00:07:25,260
+o Michael faz cinco dribbles por jogo
+
+155
+00:07:25,260 --> 00:07:26,380
+cada 90 minutos
+
+156
+00:07:26,380 --> 00:07:27,740
+e ele faz oito
+
+157
+00:07:27,740 --> 00:07:30,340
+e tem um aproveitamento 11% ali
+
+158
+00:07:30,340 --> 00:07:32,700
+11 pontos percentuais acima do Michael
+
+159
+00:07:32,700 --> 00:07:35,780
+que acaba sendo aproveitamento de mais de 25%
+
+160
+00:07:35,780 --> 00:07:39,540
+maior do que os dribbles que o Michael executa
+
+161
+00:07:39,540 --> 00:07:41,980
+então é um cara que conduz próximo ao pé
+
+162
+00:07:41,980 --> 00:07:43,620
+tem força pra ganhar duelo
+
+163
+00:07:43,620 --> 00:07:45,340
+é isso que eu quis te mostrar agora
+
+164
+00:07:45,340 --> 00:07:47,900
+e acaba tentando também muito
+
+165
+00:07:47,900 --> 00:07:50,220
+o que faz com que gere muito jogo pro time dele
+
+166
+00:07:50,220 --> 00:07:52,620
+vai acertar todas, não vai, ele vai te irritar
+
+167
+00:07:52,620 --> 00:07:54,380
+como irritou o torcedor do próprio time
+
+168
+00:07:54,380 --> 00:07:55,900
+quando perdeu essa bola aí
+
+169
+00:07:55,900 --> 00:07:58,700
+e acabou gerando uma finalização contra
+
+170
+00:07:58,700 --> 00:08:00,740
+vai irritar, mas vai também
+
+171
+00:08:00,740 --> 00:08:03,380
+da alegria, é isso que eu estou querendo te mostrar
+
+172
+00:08:03,380 --> 00:08:04,700
+ele não é um pifador
+
+173
+00:08:04,700 --> 00:08:07,540
+mas ele tem boa técnica em geral
+
+174
+00:08:07,540 --> 00:08:10,620
+o que faz com que ele encontre soluções pra jogadas
+
+175
+00:08:10,620 --> 00:08:12,020
+uma coisa muito característica
+
+176
+00:08:12,020 --> 00:08:13,420
+que eu notei dele nesse jogo
+
+177
+00:08:13,420 --> 00:08:17,140
+os que eu vi é a capacidade de encontrar esse passe de letra
+
+178
+00:08:17,140 --> 00:08:18,940
+pra quem entrar o tal tra passando
+
+179
+00:08:18,940 --> 00:08:21,580
+tá, esse parece ser uma marca da casa
+
+180
+00:08:21,580 --> 00:08:23,500
+ali, uma especialidade da casa
+
+181
+00:08:23,500 --> 00:08:26,380
+executar esse tipo de passe de letra
+
+182
+00:08:26,380 --> 00:08:29,180
+tentando encontrar em projeção alguém
+
+183
+00:08:29,180 --> 00:08:30,700
+que tá ultrapassando
+
+184
+00:08:30,700 --> 00:08:34,100
+ele também consegue dar esse passe um pouco mais longo
+
+185
+00:08:34,100 --> 00:08:36,540
+tentando visar uma verticalidade maior
+
+186
+00:08:36,540 --> 00:08:39,940
+mas não essa não é a especialidade da casa
+
+187
+00:08:39,940 --> 00:08:43,300
+que ele invade muito ao seu estilo depois de ter feito um dribble
+
+188
+00:08:43,300 --> 00:08:45,860
+e vai encontrar um passe aqui pro bitelo
+
+189
+00:08:45,860 --> 00:08:47,500
+dentro da área, um passe difícil
+
+190
+00:08:47,500 --> 00:08:48,980
+que ele foi capaz de encontrar
+
+191
+00:08:48,980 --> 00:08:51,300
+mas não, de novo, essa não é
+
+192
+00:08:51,300 --> 00:08:54,500
+a sua principal marca, inclusive me incomodei um pouco desse passe
+
+193
+00:08:54,500 --> 00:08:56,540
+ter sido feito com o pé direito de esterna
+
+194
+00:08:56,540 --> 00:08:58,900
+ele não usa tanto quanto eu gostaria
+
+195
+00:08:58,900 --> 00:09:00,620
+a perna esquerda pra passe
+
+196
+00:09:00,620 --> 00:09:04,220
+embora use sempre pra domínio quanto necessário
+
+197
+00:09:04,220 --> 00:09:08,180
+aqui ele vai pifar e vai conseguir unindo passe vertical longo
+
+198
+00:09:08,180 --> 00:09:10,300
+então ele tem a técnica tá
+
+199
+00:09:10,300 --> 00:09:13,260
+mas muitas vezes a decisão do passe não é a melhor dele
+
+200
+00:09:13,260 --> 00:09:15,940
+aqui, em projeção, durante um contrataque
+
+201
+00:09:15,940 --> 00:09:20,100
+ele vai estar muito mais também no contexto de passe mais curto
+
+202
+00:09:20,100 --> 00:09:22,660
+em velocidade que é o contexto dele
+
+203
+00:09:22,660 --> 00:09:25,020
+eu vou entrar nesse mérito já já
+
+204
+00:09:25,020 --> 00:09:26,460
+que ele vai receber a bola
+
+205
+00:09:26,460 --> 00:09:28,660
+e vai dominar já poucos toques
+
+206
+00:09:28,660 --> 00:09:31,140
+ele vai acionar ali o parceiro dele
+
+207
+00:09:31,140 --> 00:09:34,660
+e quase vai fazer o go, inclusive vai perder o go ali
+
+208
+00:09:34,660 --> 00:09:36,860
+na frente da marca do penote bem livre
+
+209
+00:09:36,860 --> 00:09:39,580
+acaba perdendo go mas mais jogado em que ele criou
+
+210
+00:09:39,580 --> 00:09:41,700
+ele podia ter acertado a gaveta aí
+
+211
+00:09:41,700 --> 00:09:45,420
+errou a gaveta mas acho que demonstra bastante esse caráter
+
+212
+00:09:45,420 --> 00:09:49,220
+de infiltração dele, de passe e em progressão
+
+213
+00:09:49,260 --> 00:09:50,980
+mais passe mais curto
+
+214
+00:09:50,980 --> 00:09:53,780
+tá aqui, olha, recebe a bola o time tá em transição
+
+215
+00:09:53,780 --> 00:09:56,900
+e aí ele vai tentar um passe longo na profundidade
+
+216
+00:09:56,900 --> 00:09:58,340
+ele ainda não tá pressionado
+
+217
+00:09:58,340 --> 00:10:00,180
+a linha de passe tá bem marcada
+
+218
+00:10:00,180 --> 00:10:02,300
+se vê que tem quatro isagueiras adversários
+
+219
+00:10:02,300 --> 00:10:05,340
+tá muito difícil mas ele acaba não tendo a maturidade
+
+220
+00:10:05,340 --> 00:10:09,540
+não forçar esse passe de tentar conduzir pra atrair a marcação
+
+221
+00:10:09,540 --> 00:10:11,620
+ele tem qualidade pra fazer isso
+
+222
+00:10:11,620 --> 00:10:14,740
+então o jogador que ainda pode evoluir na mão do Felipe
+
+223
+00:10:14,740 --> 00:10:16,740
+embora seja assim o ótimo jogador
+
+224
+00:10:16,740 --> 00:10:18,260
+aquele também o que na referência
+
+225
+00:10:18,300 --> 00:10:20,020
+não tem como ele vai receber essa bola
+
+226
+00:10:20,020 --> 00:10:22,620
+dentro da área porque ele jogou assim
+
+227
+00:10:22,620 --> 00:10:26,220
+nessa temporada especialmente quando bateu até o próprio recorde de gols
+
+228
+00:10:26,220 --> 00:10:28,420
+não é um número absoluto alto até porque
+
+229
+00:10:28,420 --> 00:10:31,020
+não tem número absoluto alto de jogos na rússia
+
+230
+00:10:31,020 --> 00:10:34,460
+é desde o início da guerra e do banimento dos clubes russos
+
+231
+00:10:34,460 --> 00:10:37,300
+aqui ele tá de falso 9 vai receber de costas
+
+232
+00:10:37,300 --> 00:10:38,660
+não tem como ele vai dominar
+
+233
+00:10:38,660 --> 00:10:40,260
+e vai encontrar o improviso
+
+234
+00:10:40,260 --> 00:10:43,060
+o passe curto de calcanhar na ultrapassagem
+
+235
+00:10:43,060 --> 00:10:47,300
+esse passe curto durante a geração dele de jogo de contato
+
+236
+00:10:47,300 --> 00:10:50,820
+de condução é a especialidade da casa como você vai ver agora
+
+237
+00:10:50,820 --> 00:10:52,820
+então ele é um ritmoista
+
+238
+00:10:52,820 --> 00:10:56,020
+é um motorzinho que sabe driblar conduzinho
+
+239
+00:10:56,020 --> 00:10:59,500
+espaço curto e gosta de distribuir o jogo a partir
+
+240
+00:10:59,500 --> 00:11:02,940
+deste contexto então não é um cara que vai jogar
+
+241
+00:11:02,940 --> 00:11:05,180
+a pouco stock sem conduzir
+
+242
+00:11:05,180 --> 00:11:08,460
+ele até joga a pouco stock quando tá numa zona congestionada
+
+243
+00:11:08,460 --> 00:11:10,860
+como agora que ele tava ali de falso 9
+
+244
+00:11:10,860 --> 00:11:12,540
+desce e dá o apoio
+
+245
+00:11:12,540 --> 00:11:15,100
+mas o contexto dele quando vira de frente
+
+246
+00:11:15,100 --> 00:11:18,180
+busca contato como agora não perder a bola
+
+247
+00:11:18,180 --> 00:11:20,380
+e aí um grande upside dele
+
+248
+00:11:20,380 --> 00:11:22,420
+e um grande ponto positivo dele
+
+249
+00:11:22,420 --> 00:11:24,420
+para o Felipe entende como futebol
+
+250
+00:11:24,420 --> 00:11:26,060
+e claro da forma como eu peço também
+
+251
+00:11:26,060 --> 00:11:28,300
+acho que jogador de dia não pode perder muita bola
+
+252
+00:11:28,300 --> 00:11:29,900
+especialmente jogador de ataque
+
+253
+00:11:29,900 --> 00:11:31,900
+para ele se justificar com o driblador
+
+254
+00:11:31,900 --> 00:11:34,060
+como um cara ofensivo
+
+255
+00:11:34,060 --> 00:11:35,900
+ele não pode perder a posta da bola
+
+256
+00:11:35,900 --> 00:11:39,540
+e ele realmente tem essa capacidade de duelar
+
+257
+00:11:39,540 --> 00:11:42,580
+preservando a posta de bola que ele baixa
+
+258
+00:11:42,580 --> 00:11:44,500
+e ele vai conduzir organizando o time
+
+259
+00:11:44,500 --> 00:11:46,060
+então ele organiza o time
+
+260
+00:11:46,060 --> 00:11:48,300
+e faz ali o que a galera chama de playmaker
+
+261
+00:11:48,300 --> 00:11:52,500
+muito a partir de condução e espaço congestionado
+
+262
+00:11:52,500 --> 00:11:55,300
+e troca de passes dentro dessa zona
+
+263
+00:11:55,300 --> 00:11:57,100
+dentro desse contexto até por isso
+
+264
+00:11:57,100 --> 00:12:01,100
+que ele não tem um número alto de assistências na carreira
+
+265
+00:12:01,100 --> 00:12:02,580
+aqui eu até botei a câmera lenta
+
+266
+00:12:02,580 --> 00:12:04,740
+porque o cara jogou uma pedrada nele
+
+267
+00:12:04,740 --> 00:12:06,500
+nota como vai receber uma pedrada
+
+268
+00:12:06,500 --> 00:12:09,380
+e vai ter a qualidade dominada de perna esquerda
+
+269
+00:12:09,380 --> 00:12:12,300
+e seguir conduzindo sem perder muito tempo
+
+270
+00:12:12,300 --> 00:12:14,900
+então ele é um cara que usa a perna esquerda
+
+271
+00:12:14,900 --> 00:12:16,700
+não muito para passar
+
+272
+00:12:16,700 --> 00:12:18,900
+ou para finalizar mas sim
+
+273
+00:12:18,900 --> 00:12:21,500
+sempre que ele precisa dar velocidade
+
+274
+00:12:21,500 --> 00:12:22,700
+num domínio
+
+275
+00:12:22,700 --> 00:12:25,100
+aquele vai receber essa bola na referência de novo
+
+276
+00:12:25,100 --> 00:12:27,100
+como um falso 9 domina
+
+277
+00:12:27,100 --> 00:12:28,500
+já sai conduzindo
+
+278
+00:12:28,500 --> 00:12:30,700
+e se associando mais curto
+
+279
+00:12:30,700 --> 00:12:31,900
+vai se associando
+
+280
+00:12:31,900 --> 00:12:33,500
+e vai ocupando os espaços
+
+281
+00:12:33,500 --> 00:12:35,900
+é um jogador sim muito intenso
+
+282
+00:12:35,900 --> 00:12:38,300
+e muito mais forte do que os jogadores
+
+283
+00:12:38,300 --> 00:12:39,500
+que o Flamengo tem
+
+284
+00:12:39,500 --> 00:12:41,500
+e jogam por corredor central
+
+285
+00:12:41,500 --> 00:12:43,500
+então por exemplo comparado com a rascaeta
+
+286
+00:12:43,500 --> 00:12:46,700
+aí não tem a mesma capacidade de decisão em gosto
+
+287
+00:12:46,700 --> 00:12:47,700
+que o rascaeta tem
+
+288
+00:12:47,700 --> 00:12:48,900
+embora faça seus gols
+
+289
+00:12:48,900 --> 00:12:50,500
+como vai você vai ver aí
+
+290
+00:12:50,500 --> 00:12:53,300
+mas não tem definitivamente a capacidade de finalização
+
+291
+00:12:53,300 --> 00:12:54,500
+que o rascaeta tem
+
+292
+00:12:54,500 --> 00:12:58,100
+mas ele tem uma capacidade diferente
+
+293
+00:12:58,100 --> 00:12:59,500
+de condução
+
+294
+00:12:59,500 --> 00:13:01,300
+de resistir mais ao contato
+
+295
+00:13:01,300 --> 00:13:02,900
+de doelar ainda mais
+
+296
+00:13:02,900 --> 00:13:05,900
+e isso conta muito a favor dele
+
+297
+00:13:05,900 --> 00:13:07,900
+em alguns contextos de jogo
+
+298
+00:13:07,900 --> 00:13:10,300
+inclusive para jogar ao lado do rascaeta
+
+299
+00:13:10,300 --> 00:13:12,300
+que eu acho perfeitamente possível
+
+300
+00:13:12,300 --> 00:13:14,700
+assim como jogar na posição do rascaeta
+
+301
+00:13:14,700 --> 00:13:15,900
+que é onde ele tem jogado
+
+302
+00:13:15,900 --> 00:13:17,500
+o rasca não é exatamente um falso 9
+
+303
+00:13:17,500 --> 00:13:19,500
+porque o Flamengo joga num 4.4.2
+
+304
+00:13:19,500 --> 00:13:20,500
+mas ele é
+
+305
+00:13:20,500 --> 00:13:22,100
+sim muitas vezes o cara
+
+306
+00:13:22,100 --> 00:13:23,100
+quase todos os jogos
+
+307
+00:13:23,100 --> 00:13:23,900
+quase sempre
+
+308
+00:13:23,900 --> 00:13:24,900
+na verdade via de regra
+
+309
+00:13:24,900 --> 00:13:26,900
+é o jogador mais avançado
+
+310
+00:13:26,900 --> 00:13:27,900
+do Flamengo
+
+311
+00:13:27,900 --> 00:13:29,700
+no posicionamento médio em campo
+
+312
+00:13:29,700 --> 00:13:32,500
+e isso faz com que ele receba nesse contexto
+
+313
+00:13:32,500 --> 00:13:35,300
+aqui ele tem a técnica de deixar
+
+314
+00:13:35,300 --> 00:13:36,700
+ali a opção de passe
+
+315
+00:13:36,700 --> 00:13:39,900
+e se projetar enquanto o passe acontece
+
+316
+00:13:39,900 --> 00:13:41,300
+e vai finalizar de primeira
+
+317
+00:13:41,300 --> 00:13:42,300
+isso eu adoro, tá?
+
+318
+00:13:42,300 --> 00:13:44,900
+ele é um cara que tenta finalizar de primeira
+
+319
+00:13:44,900 --> 00:13:46,500
+que tenta finalização
+
+320
+00:13:46,500 --> 00:13:48,300
+ele não é um grande finalizador
+
+321
+00:13:48,300 --> 00:13:49,900
+o que é outra história
+
+322
+00:13:49,900 --> 00:13:51,300
+ali não é um grande finalizador
+
+323
+00:13:51,300 --> 00:13:52,500
+não é um cara que decide
+
+324
+00:13:52,500 --> 00:13:54,300
+a partir das suas finalizações
+
+325
+00:13:54,300 --> 00:13:55,900
+a gente está acostumado a ver
+
+326
+00:13:55,900 --> 00:13:57,700
+jogadores que tem até uma finalização
+
+327
+00:13:57,700 --> 00:13:59,300
+que não parece tão ruim assim
+
+328
+00:13:59,300 --> 00:14:01,000
+mas que raramente faz engol
+
+329
+00:14:01,000 --> 00:14:02,800
+muito porque esse algo a mais
+
+330
+00:14:02,800 --> 00:14:03,800
+ele não tem, tá?
+
+331
+00:14:03,800 --> 00:14:06,500
+e antes de vocês virem com a piadinha do GPS
+
+332
+00:14:06,500 --> 00:14:08,200
+tal, que é bem chata, até
+
+333
+00:14:08,300 --> 00:14:10,300
+eu vou falar que sim, ele é muito intenso
+
+334
+00:14:10,300 --> 00:14:11,900
+sem a bola, é um jogador que do ela
+
+335
+00:14:11,900 --> 00:14:12,900
+muito sem a bola
+
+336
+00:14:12,900 --> 00:14:14,900
+que pressiona muitos adversários
+
+337
+00:14:14,900 --> 00:14:15,900
+e isso sem dúvida
+
+338
+00:14:15,900 --> 00:14:17,700
+põe uma sereja no bolo
+
+339
+00:14:17,700 --> 00:14:19,100
+do que pode ser esse cara
+
+340
+00:14:19,100 --> 00:14:20,600
+então aquele rouba a bola
+
+341
+00:14:20,600 --> 00:14:22,100
+e vai ter um lance, eu penso
+
+342
+00:14:22,100 --> 00:14:23,100
+e vai adriblar
+
+343
+00:14:23,100 --> 00:14:25,300
+e acaba que foi fominha
+
+344
+00:14:25,300 --> 00:14:27,000
+e não deu o passe, deixou maluco
+
+345
+00:14:27,000 --> 00:14:28,500
+louco com ele ali
+
+346
+00:14:28,500 --> 00:14:29,300
+não dando passe
+
+347
+00:14:29,300 --> 00:14:31,100
+aqui ele está atrás no lance
+
+348
+00:14:31,100 --> 00:14:32,600
+os aguero progrediu
+
+349
+00:14:32,600 --> 00:14:33,700
+vai encontrar o passe
+
+350
+00:14:33,700 --> 00:14:35,300
+e ele vai bater a carteira dele
+
+351
+00:14:35,300 --> 00:14:37,100
+então é um jogador intenso
+
+352
+00:14:37,200 --> 00:14:39,000
+que demonstra esse trabalho sem bola
+
+353
+00:14:39,000 --> 00:14:40,300
+e quando recupera a bola
+
+354
+00:14:40,300 --> 00:14:41,300
+principalmente, ó
+
+355
+00:14:41,300 --> 00:14:42,600
+retenha a bola, né?
+
+356
+00:14:42,600 --> 00:14:44,300
+não vai perder a bola
+
+357
+00:14:44,300 --> 00:14:46,300
+e ele acaba sofrendo a falta
+
+358
+00:14:46,300 --> 00:14:47,300
+assim como nem marque
+
+359
+00:14:47,300 --> 00:14:49,500
+eu comparei, não qualitativamente, ó, viu, né?
+
+360
+00:14:49,500 --> 00:14:51,200
+mas comparei em estilo
+
+361
+00:14:51,200 --> 00:14:53,200
+ele também jogador que busca muito contato
+
+362
+00:14:53,200 --> 00:14:54,200
+acaba sofrendo
+
+363
+00:14:54,200 --> 00:14:55,200
+muitas faltas
+
+364
+00:14:55,200 --> 00:14:57,400
+mas não dá para chamar de um cara
+
+365
+00:14:57,400 --> 00:14:58,200
+fominha não
+
+366
+00:14:58,200 --> 00:14:59,400
+ele acaba gerando com isso
+
+367
+00:14:59,400 --> 00:15:00,400
+tempo espaço
+
+368
+00:15:00,400 --> 00:15:01,000
+pros companheiros
+
+369
+00:15:01,000 --> 00:15:02,000
+você vai ver o número baixo
+
+370
+00:15:02,000 --> 00:15:03,000
+em assistências
+
+371
+00:15:03,000 --> 00:15:04,400
+muito porque ele se coloca
+
+372
+00:15:04,400 --> 00:15:05,200
+nesse contexto
+
+373
+00:15:05,200 --> 00:15:06,200
+muitas vezes recebendo
+
+374
+00:15:06,200 --> 00:15:07,500
+essa bola fora do bloco
+
+375
+00:15:07,500 --> 00:15:09,700
+e sendo o cara que vai conduzir
+
+376
+00:15:09,700 --> 00:15:10,700
+para dentro do bloco
+
+377
+00:15:10,700 --> 00:15:12,700
+e abrir esse bloco muito fechado
+
+378
+00:15:12,700 --> 00:15:13,700
+os éboto chegou a falar
+
+379
+00:15:13,700 --> 00:15:14,700
+e alguma entrevista
+
+380
+00:15:14,700 --> 00:15:16,700
+da característica de abrilatas
+
+381
+00:15:16,700 --> 00:15:18,700
+que eu flamenco precisa de um abrilatas
+
+382
+00:15:18,700 --> 00:15:20,700
+e o Felipe Luís concorda com isso
+
+383
+00:15:20,700 --> 00:15:22,700
+tanto que tinha aprovado Mike A. Johnston
+
+384
+00:15:22,700 --> 00:15:24,200
+que tem uma característica
+
+385
+00:15:24,200 --> 00:15:25,300
+também de abrilatas
+
+386
+00:15:25,300 --> 00:15:26,900
+mas só aquela característica
+
+387
+00:15:26,900 --> 00:15:28,700
+o carrascal, ele traz muito mais
+
+388
+00:15:28,700 --> 00:15:30,500
+ele traz um cara que faz
+
+389
+00:15:30,500 --> 00:15:32,000
+uma organização de jogo
+
+390
+00:15:32,000 --> 00:15:33,300
+que em alguns momentos
+
+391
+00:15:33,300 --> 00:15:35,000
+pode lembrar, ali, o Everton Ribeiro
+
+392
+00:15:35,000 --> 00:15:36,200
+nos passes mais curtos
+
+393
+00:15:36,200 --> 00:15:37,800
+nos passes fora do bloco
+
+394
+00:15:37,800 --> 00:15:39,800
+mas que tem explosão
+
+395
+00:15:39,800 --> 00:15:40,800
+para a driblicurto
+
+396
+00:15:40,800 --> 00:15:42,100
+que tem aceleração
+
+397
+00:15:42,100 --> 00:15:43,000
+para a driblicurto
+
+398
+00:15:43,000 --> 00:15:45,300
+e que se infiltra muito bem
+
+399
+00:15:45,300 --> 00:15:47,000
+mas que também sustenta
+
+400
+00:15:47,000 --> 00:15:47,800
+as pressões
+
+401
+00:15:47,800 --> 00:15:49,700
+se receber a bola de costa
+
+402
+00:15:49,700 --> 00:15:51,500
+então ele recebe essa bola de costa
+
+403
+00:15:51,500 --> 00:15:52,500
+como um atacante
+
+404
+00:15:52,500 --> 00:15:53,400
+como um nove
+
+405
+00:15:53,400 --> 00:15:54,200
+e não cai
+
+406
+00:15:54,200 --> 00:15:55,200
+não perde bola
+
+407
+00:15:55,200 --> 00:15:57,300
+ele perde pouquíssima bola
+
+408
+00:15:57,300 --> 00:15:59,000
+perto da sua participação
+
+409
+00:15:59,000 --> 00:15:59,500
+em jogo
+
+410
+00:15:59,500 --> 00:16:00,500
+então ao contrário
+
+411
+00:16:00,500 --> 00:16:02,000
+do que muita gente anda falando
+
+412
+00:16:02,000 --> 00:16:02,800
+eu sim
+
+413
+00:16:02,800 --> 00:16:04,900
+empolgo com essa contratação
+
+414
+00:16:05,000 --> 00:16:05,800
+não acho
+
+415
+00:16:05,800 --> 00:16:07,100
+um valor alto, tá?
+
+416
+00:16:07,100 --> 00:16:08,600
+há 12 milhões de euros
+
+417
+00:16:08,600 --> 00:16:10,600
+para começar, você tem que entender onde ele estava
+
+418
+00:16:10,600 --> 00:16:11,300
+ele estava
+
+419
+00:16:11,300 --> 00:16:13,400
+no mercado que está praticamente fechado
+
+420
+00:16:13,400 --> 00:16:15,300
+isolado do resto do mercado do futebol
+
+421
+00:16:15,300 --> 00:16:16,400
+que é o mercado russo
+
+422
+00:16:16,400 --> 00:16:17,600
+se ele está ali
+
+423
+00:16:17,600 --> 00:16:18,300
+daí
+
+424
+00:16:18,300 --> 00:16:19,500
+é muito difícil sair
+
+425
+00:16:19,500 --> 00:16:21,100
+não ator, a gente está acompanhando
+
+426
+00:16:21,100 --> 00:16:21,800
+tantos jogadores
+
+427
+00:16:21,800 --> 00:16:24,100
+que têm dificuldade de sair do futebol russo
+
+428
+00:16:24,100 --> 00:16:25,200
+e o próprio valor
+
+429
+00:16:25,200 --> 00:16:27,000
+que eles têm pago em outros jogadores
+
+430
+00:16:27,000 --> 00:16:27,500
+então é óbvio
+
+431
+00:16:27,500 --> 00:16:28,900
+que ele não seria liberado
+
+432
+00:16:28,900 --> 00:16:29,800
+tão barato
+
+433
+00:16:29,800 --> 00:16:30,800
+além disso
+
+434
+00:16:30,800 --> 00:16:31,900
+quanto vale um jogador
+
+435
+00:16:31,900 --> 00:16:32,900
+que traz tudo isso
+
+436
+00:16:32,900 --> 00:16:34,200
+é que traz esse driblic
+
+437
+00:16:34,200 --> 00:16:35,300
+tendo a associação
+
+438
+00:16:35,300 --> 00:16:36,500
+tendo o cognitivo
+
+439
+00:16:36,500 --> 00:16:37,700
+não sendo um cara
+
+440
+00:16:37,700 --> 00:16:38,500
+é burro, né?
+
+441
+00:16:38,500 --> 00:16:40,500
+o cara driblador, meio burro, etc.
+
+442
+00:16:40,500 --> 00:16:42,500
+e sendo um cara que acaba entregando
+
+443
+00:16:42,500 --> 00:16:44,500
+a característica que o Flamengo precisa
+
+444
+00:16:44,500 --> 00:16:46,300
+para conseguir prosperar na temporada
+
+445
+00:16:46,300 --> 00:16:47,300
+e conquistar o que precisa
+
+446
+00:16:47,300 --> 00:16:49,000
+quanto é o valor disso aí, tá?
+
+447
+00:16:49,000 --> 00:16:49,600
+então
+
+448
+00:16:49,600 --> 00:16:51,100
+eu não acho um valor muito alto
+
+449
+00:16:51,100 --> 00:16:52,300
+12 milhões de euros
+
+450
+00:16:52,300 --> 00:16:53,100
+acho que
+
+451
+00:16:53,100 --> 00:16:54,100
+está no preço
+
+452
+00:16:54,100 --> 00:16:55,400
+não tem muito como ser
+
+453
+00:16:55,400 --> 00:16:56,500
+muito menos do que isso
+
+454
+00:16:56,500 --> 00:16:57,700
+pode ser 10
+
+455
+00:16:57,700 --> 00:16:58,700
+pode ser 9
+
+456
+00:16:58,700 --> 00:17:00,100
+acho que diante do que
+
+457
+00:17:00,100 --> 00:17:01,500
+ter acontecido na temporada
+
+458
+00:17:01,500 --> 00:17:02,400
+3 milhões de euros
+
+459
+00:17:02,400 --> 00:17:03,300
+não é o que vai
+
+460
+00:17:03,300 --> 00:17:04,400
+matar o Flamengo
+
+461
+00:17:04,400 --> 00:17:06,600
+ele não é o tipo de contratação aposta
+
+462
+00:17:06,600 --> 00:17:07,800
+ele é o tipo de contratação
+
+463
+00:17:07,800 --> 00:17:08,700
+tiro de canhão
+
+464
+00:17:08,700 --> 00:17:11,200
+é que caracterizou muito a gestão anterior
+
+465
+00:17:11,200 --> 00:17:13,000
+e está tudo bem, né?
+
+466
+00:17:13,000 --> 00:17:14,500
+eu acho que um bom mercado
+
+467
+00:17:14,500 --> 00:17:15,700
+se faz de mesclas
+
+468
+00:17:15,700 --> 00:17:17,200
+de um jogador que vai te entregar
+
+469
+00:17:17,200 --> 00:17:18,200
+daqui a 2 anos
+
+470
+00:17:18,200 --> 00:17:19,700
+de um jogador que chega entregando
+
+471
+00:17:19,700 --> 00:17:22,000
+e essa é a responsabilidade do carrascal
+
+472
+00:17:22,000 --> 00:17:22,700
+então
+
+473
+00:17:22,700 --> 00:17:26,000
+vejo como um ótimo movimento do Flamengo no mercado
+
+474
+00:17:26,000 --> 00:17:27,100
+essa é a minha opinião
+
+475
+00:17:27,100 --> 00:17:28,600
+que era ouvia de vocês
+
+476
+00:17:28,600 --> 00:17:30,400
+deixa o like, se inscreve no canal
+
+477
+00:17:30,400 --> 00:17:31,300
+e eu vou te contar
+
+478
+00:17:31,400 --> 00:17:34,000
+trancioso de ver o carrascal jogado
+
+479
+00:17:34,000 --> 00:17:36,000
+e quero ver ele junto com a rasca, tá?
+
+480
+00:17:36,000 --> 00:17:37,700
+então nos próximos vídeos
+
+481
+00:17:37,700 --> 00:17:41,000
+a gente vai tentando esclarecer um pouco mais esse elenco
+
+482
+00:17:41,000 --> 00:17:42,200
+o que que pode acontecer
+
+483
+00:17:42,200 --> 00:17:44,000
+como que pode usar o que tem
+
+484
+00:17:44,000 --> 00:17:46,000
+mas o Flamengo precisava de reforços
+
+485
+00:17:46,000 --> 00:17:46,600
+e que bom
+
+486
+00:17:46,600 --> 00:17:47,600
+que veio o primeiro
+
+487
+00:17:47,600 --> 00:17:49,600
+dessa terceira janela do ano
+
+488
+00:17:49,600 --> 00:17:50,100
+valeu
+
