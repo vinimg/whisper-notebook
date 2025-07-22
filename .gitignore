@@ -37,6 +37,11 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Build and dist
+build/
+dist/
+uploads/
+
 # Large files and models
 model/*
 audio/*
