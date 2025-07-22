@@ -169,15 +169,9 @@ def download_result(task_id):
     
     return jsonify({'error': 'File not found'}), 404
 
-@app.route('/health')
-def health_check():
-    """Health check endpoint"""
-    return jsonify({
-        'status': 'healthy',
-        'device': check_gpu_status(),
-        'models': available_models,
-        'hosting': 'free-tier-optimized'
-    })
+@app.route("/health")
+def health():
+    return jsonify({"status": "healthy"}), 200
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))

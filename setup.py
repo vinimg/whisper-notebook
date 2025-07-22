@@ -14,4 +14,10 @@ setup(
         "ffmpeg-python",
         "Werkzeug>=3.0.0"
     ],
+    python_requires=">=3.8",
+    include_package_data=True,
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+    ],
 )
