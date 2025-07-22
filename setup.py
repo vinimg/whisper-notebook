@@ -11,6 +11,7 @@ setup(
         "numpy>=1.26.4",
         "torch>=2.7.1",
         "tqdm>=4.67.1",
-        "ffmpeg-python"
+        "ffmpeg-python",
+        "Werkzeug>=3.0.0"
     ],
 )
