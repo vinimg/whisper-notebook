@@ -37,10 +37,20 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Project specific
+# Large files and models
+model/*
+audio/*
+*.pt
+*.pth
+*.bin
+*.gguf
+*.onnx
+large-v3.pt
+
+# Audio files
 *.wav
 *.mp3
 *.ogg
 *.flac
 *.mp4
-model/
+*.m4a
